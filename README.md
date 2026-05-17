@@ -229,9 +229,6 @@ recipe-finder-graph/
 - Set `LANGSMITH_TRACING=true` in `.env` to enable tracing
 - View traces at https://smith.langchain.com
 
-## License
-
-MIT
 
 ## Contributing
 
